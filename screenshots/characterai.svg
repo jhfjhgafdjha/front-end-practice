@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200">
+  <!-- Header -->
+  <rect x="0" y="0" width="320" height="40" rx="8" fill="#7c3aed"/>
+  <rect x="0" y="20" width="320" height="20" fill="#7c3aed"/>
+  <circle cx="18" cy="20" r="8" fill="#f59e0b"/>
+  <text x="34" y="24" font-size="11" fill="#fff" font-family="Arial" font-weight="bold">Character.ai</text>
+  <!-- Character selector -->
+  <rect x="10" y="46" width="100" height="16" rx="8" fill="#3a1a5a"/>
+  <text x="16" y="57" font-size="7" fill="#d0a0f0" font-family="Arial">🐱 猫咪助手</text>
+  <!-- Messages -->
+  <rect x="10" y="70" width="160" height="28" rx="14" fill="#3a1a5a"/>
+  <text x="20" y="88" font-size="9" fill="#d0a0f0" font-family="Arial">喵~ 你好主人！今天想聊什么？</text>
+  <rect x="150" y="106" width="160" height="28" rx="14" fill="#7c3aed"/>
+  <text x="160" y="124" font-size="9" fill="#fff" font-family="Arial">你今天心情怎么样？</text>
+  <rect x="10" y="142" width="200" height="38" rx="14" fill="#3a1a5a"/>
+  <text x="20" y="158" font-size="9" fill="#d0a0f0" font-family="Arial">今天阳光明媚，心情超好！喵~</text>
+  <text x="20" y="172" font-size="9" fill="#a070c0" font-family="Arial">想听我讲个小故事吗？😸</text>
+</svg>
